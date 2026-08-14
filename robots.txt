@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-m4pask.jambul126.online/sitemap.xml
